@@ -1,5 +1,3 @@
 # gamma-project
 
-requirements:
-- pandas
-- altair
+`pip install -r requirements.txt`
